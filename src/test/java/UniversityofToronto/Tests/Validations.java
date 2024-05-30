@@ -37,6 +37,8 @@ public class Validations extends BaseTest{
 				boolean myProductName = cartPage.getProductNameInCart(product);// ProductName
 				Assert.assertTrue(myProductName);
 				
+				System.out.println("Im american I pushed code to indandi");
+				
 				
 	}
 	
