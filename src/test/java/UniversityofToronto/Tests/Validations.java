@@ -17,6 +17,12 @@ public class Validations extends BaseTest{
 				String myMessage =  myLoginPage.getMessage();
 				Assert.assertEquals(myMessage, "Incorrect email or password.");
 				System.out.println("GITHUB IS COOL!");
+				System.out.println("GITHUB IS Bald!");
+				System.out.println("GITHUB IS hair!");
+				System.out.println("GITHUB IS jeepers!");
+				System.out.println("GITHUB IS Gnarly!");
+				System.out.println("GITHUB IS Nice!");
+
 				
 				
 	}
