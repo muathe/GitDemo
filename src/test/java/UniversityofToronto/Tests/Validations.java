@@ -19,9 +19,7 @@ public class Validations extends BaseTest{
 				System.out.println("GITHUB IS COOL!");
 				System.out.println("GITHUB IS Bald!");
 				System.out.println("GITHUB IS hair!");
-				System.out.println("GITHUB IS jeepers!");
-				System.out.println("GITHUB IS Gnarly!");
-				System.out.println("GITHUB IS Nice!");
+				
 
 				
 				
